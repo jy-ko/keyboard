@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/keyboard/static/css/main.40a4c2d4.css",
+    "main.js": "/keyboard/static/js/main.32610d6b.js",
+    "static/js/787.0df127bc.chunk.js": "/keyboard/static/js/787.0df127bc.chunk.js",
+    "static/media/notes_Bb.mp3": "/keyboard/static/media/notes_Bb.ee14cec1950416f87f9e.mp3",
+    "static/media/notes_C.mp3": "/keyboard/static/media/notes_C.11c6e514d9bfea727e52.mp3",
+    "static/media/notes_Gb.mp3": "/keyboard/static/media/notes_Gb.c5319dc54f2ae0a1c260.mp3",
+    "static/media/notes_A.mp3": "/keyboard/static/media/notes_A.b26ef2a136fe3532f728.mp3",
+    "static/media/notes_F.mp3": "/keyboard/static/media/notes_F.3cf62cd6321697600199.mp3",
+    "static/media/notes_Ab.mp3": "/keyboard/static/media/notes_Ab.a5784841c64f3ff8dcbd.mp3",
+    "static/media/notes_Eb.mp3": "/keyboard/static/media/notes_Eb.aee137c23d1c94178f92.mp3",
+    "static/media/notes_G.mp3": "/keyboard/static/media/notes_G.44d1401443f9e62983c8.mp3",
+    "static/media/notes_B.mp3": "/keyboard/static/media/notes_B.e70be642cbe7c4391966.mp3",
+    "static/media/notes_E.mp3": "/keyboard/static/media/notes_E.598f1567463fd250dc0e.mp3",
+    "static/media/notes_D.mp3": "/keyboard/static/media/notes_D.2f57fa428eb007af60c0.mp3",
+    "static/media/notes_Db.mp3": "/keyboard/static/media/notes_Db.2f6a2c5f3a280a478f9d.mp3",
+    "index.html": "/keyboard/index.html",
+    "main.40a4c2d4.css.map": "/keyboard/static/css/main.40a4c2d4.css.map",
+    "main.32610d6b.js.map": "/keyboard/static/js/main.32610d6b.js.map",
+    "787.0df127bc.chunk.js.map": "/keyboard/static/js/787.0df127bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40a4c2d4.css",
+    "static/js/main.32610d6b.js"
+  ]
+}
